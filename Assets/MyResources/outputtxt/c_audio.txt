@@ -1,0 +1,22 @@
+﻿{
+    "datas": [
+        {
+            "Id": 10000000,	
+            "AudioName": "音频1",	
+            "Path": "Boss_01_Skill_c_01.wav",	
+            "Descr": "测试1"
+        },
+        {
+            "Id": 10000001,	
+            "AudioName": "音频2",	
+            "Path": "DaoS_Action_AirTurn_01.wav",	
+            "Descr": "测试2"
+        },
+        {
+            "Id": 10000002,	
+            "AudioName": "音频3",	
+            "Path": "DaoS_Attack_02_2.wav",	
+            "Descr": "测试3"
+        }
+    ]
+}

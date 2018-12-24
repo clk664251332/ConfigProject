@@ -1,0 +1,16 @@
+﻿{
+    "datas": [
+        {
+            "Id": 10000000,	
+            "MusicName": "背景音乐1",	
+            "Path": "Cube_Fall_Heavy.wav",	
+            "Descr": "测试1"
+        },
+        {
+            "Id": 10000001,	
+            "MusicName": "背景音乐2",	
+            "Path": "GOAT.wav",	
+            "Descr": "测试2"
+        }
+    ]
+}
