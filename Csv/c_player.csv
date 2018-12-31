@@ -1,4 +1,0 @@
-Id,Name,DefaultFashionId,AnimatorName
-uint,string,uint,string
-ID,名称,默认时装配置,动画Prefab名字
-1001,鬼剑士,1001,SwordmanAnimator

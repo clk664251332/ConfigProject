@@ -1,0 +1,9 @@
+Id,Remark,Profession,ActionName,NextActionName,MoveSpeed,MoveTime,EarlyEndFramIndex
+uint,string,string,string,string,float,float,uint
+技能ID,备注名称,所属职业,动作名称,下连动作名称,动作位移速度,动作位移时间,提前结束帧序号
+10001,小砍1,鬼剑士,Attack1,Attack2,0,0,4
+10002,小砍2,鬼剑士,Attack2,Attack3,200,0.3,4
+10003,小砍3,鬼剑士,Attack3,0,300,0.4,0
+10004,冲刺,鬼剑士,RunAttack,0,0,0,0
+10005,上挑,鬼剑士,Skill1,0,0,0,0
+10006,鬼斩,鬼剑士,Skill2,0,0,0,0
