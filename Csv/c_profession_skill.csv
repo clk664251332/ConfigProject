@@ -1,4 +1,4 @@
 Id,Remark,Attack1Id,Attack2Id,Attack3Id,Attack4Id,RunAttackId,Skill1Id,Skill2Id,Skill3Id,Skill4Id,Skill5Id,Skill6Id,Skill7Id,Skill8Id,Skill9Id,Skill10Id
 uint,string,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint
 Id,备注,普攻1,普攻2,普攻3,普攻4,冲刺,技能1,技能2,技能3,技能4,技能5,技能6,技能7,技能8,技能9,技能10
-1001,鬼剑士默认技能配置,1001,1002,1003,0,1004,1005,1006,0,0,0,0,0,0,0,0
+1001,鬼剑士默认技能配置,10001,10002,10003,0,10004,10005,10006,0,0,0,0,0,0,0,0
