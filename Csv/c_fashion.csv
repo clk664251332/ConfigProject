@@ -2,4 +2,4 @@ Id,Remark,Skin,Hair,Cap,Chest,Coat_1,Coat_2,Belt,Pants_1,Pants_2,Shoes_1,Shoes_2
 uint,string,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint
 ID,备注,皮肤ID,头发ID,帽子ID,项链ID,上衣_1ID,上衣_2ID,腰带ID,下装_1ID,下装_2ID,鞋_1ID,鞋_2ID,武器_1ID,武器_2ID,武器_3ID
 1001,鬼剑士默认,10001,20001,0,0,50001,0,0,70011,70012,80011,80012,90011,90012,0
-1002,哥布林默认,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1002,哥布林默认,10002,0,0,0,0,0,0,0,0,0,0,90001,0,0
