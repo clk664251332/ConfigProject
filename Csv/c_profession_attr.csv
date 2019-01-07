@@ -1,0 +1,5 @@
+Id,Remark,WalkSpeed,RunSpeed,AttackSpeed,JumpSpeed,JumpGravity,HP,MP,MaxHP,MaxMP,HpRecoverSpeed,MpRecoverSpeed,Level,CurExp,UpLevelNeedExp,Gold,Strength,Endurance,Intelligence,Spirit,PhysicalAttack,PhysicalDefence,MagicAttack,MagicDefence,CriticalChance,CriticalDamage
+uint,string,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float
+Id,备注,走路速度,跑步速度,攻击速度,跳跃速度,跳跃重力,血量,蓝量,最大血量,最大蓝量,血量回复,蓝量回复,等级,当前经验,升级所需经验,金币,力量,体力,智力,精神,物理攻击,物理防御,魔法攻击,魔法防御,暴击几率,暴击伤害
+1001,鬼剑士初级属性配置,100,160,18,10,0.8,100,100,100,100,10,10,1,0,100,100,10,10,10,10,10,10,10,10,0.02,1.5
+1002,哥布林,60,100,18,10,0.8,100,100,100,100,10,10,1,0,0,0,10,10,10,10,10,10,10,10,0.002,1.2
