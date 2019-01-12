@@ -1,0 +1,5 @@
+Id,Remark,CollectionName,StartFrameName,EndFrameName
+uint,string,string,string,string
+特效Id,备注名称,图集名称,起始帧名字,结束帧名字
+1001,鬼斩特效1,hardattackblade1,3,8
+1002,鬼斩特效2,hardattackblade2,3,8
