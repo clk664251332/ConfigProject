@@ -1,0 +1,4 @@
+Id,Remark,AnimationName,PrefabName,Number,CreatDeltaTime,CreatPosOffset,StartPosOffset,Speed,LifeTime,AutoDestory
+uint,string,string,string,uint,float,string,string,float,float,uint
+特效Id,备注名称,动画名称,预设名字,数量,产生时间间隔,产生位置间隔,起始点坐标偏移,速度,存在时间,是否碰撞自动销毁
+1001,剑气斩特效,swordWave,SkillEffectAnimator,1,0,0,0~0,5,2,0
