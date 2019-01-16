@@ -1,5 +1,5 @@
 Id,Name,AnimatorName,DefaultFashionId,DefaultSkillId,DefaultAttrId
 uint,string,string,uint,uint,uint
 ID,职业名称,动画Prefab名字,默认时装配置,默认技能配置,默认属性配置
-1001,鬼剑士,SwordmanAnimator,1001,1001,1001
+1001,枪剑士,GunbladerAnimator,1001,0,1001
 1002,哥布林,GoblinAnimator,1002,0,1002

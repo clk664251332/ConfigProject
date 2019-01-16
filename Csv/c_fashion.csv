@@ -1,5 +1,5 @@
-Id,Remark,Skin,Hair,Cap,Chest,Coat_1,Coat_2,Belt,Pants_1,Pants_2,Shoes_1,Shoes_2,Weapon_1,Weapon_2,Weapon_3
-uint,string,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint
-ID,备注,皮肤ID,头发ID,帽子ID,项链ID,上衣_1ID,上衣_2ID,腰带ID,下装_1ID,下装_2ID,鞋_1ID,鞋_2ID,武器_1ID,武器_2ID,武器_3ID
-1001,鬼剑士默认,10001,20001,0,0,50001,0,0,70011,70012,80011,80012,90011,90012,0
-1002,哥布林默认,10002,0,0,0,0,0,0,0,0,0,0,90001,0,0
+Id,Remark,Body,Hair_a,Hair_b,Cap_a,Cap_b,Face_b,Face_c,Neck_c,Neck_d,Neck_x,Coat_a,Coat_b,Coat_c,Coat_d,Belt_a,Belt_b,Belt_c,Belt_d,Pants_a,Pants_b,Pants_c,Pants_d,Shoes_a,Shoes_b,Weapon_a,Weapon_b,Weapon_c,Weapon_d,Weapon_x,Subweapon_a,Subweapon_b,Subweapon_c,Subweapon_d,Subweapon_x
+uint,string,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint,uint
+ID,备注,皮肤,头发a,头发b,帽子a,帽子b,面部b,面部c,项链c,项链d,项链x,上衣_a,上衣_b,上衣_c,上衣_d,腰带a,腰带b,腰带c,腰带d,下装_a,下装_b,下装_c,下装_d,鞋_a,鞋_b,武器_a,武器_b,武器_c,武器_d,武器_x,副武器_a,副武器_b,副武器_c,副武器_d,副武器_x
+1001,枪剑士默认,10001,20010,0,0,0,0,0,0,0,0,60010,60020,60030,60040,70010,0,0,0,80010,80020,0,0,90010,90020,0,100020,100030,100040,100050,110010,110020,110030,0,110050
+1002,枪剑士雪人套,10001,0,0,30010,30020,0,0,0,0,0,60011,0,60031,60041,0,0,0,0,0,0,0,0,0,0,0,100020,100030,100040,100050,110010,110020,110030,0,110050
